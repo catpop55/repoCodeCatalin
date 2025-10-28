@@ -1,5 +1,6 @@
 Catalin
 (A) Benvinguda a la branca01 Catalin
 (B) Modificacio 01 Main Catalin
+(C) Benvinguda a la branca02 Catalin
 (D) Modificacion 02 Main Catalin
 (E) Afegim imatge a branca01 Catalin
