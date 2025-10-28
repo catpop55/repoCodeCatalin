@@ -1,2 +1,3 @@
 Catalin
 (A) Benvinguda a la branca01 Catalin
+(E) Afegim imatge a branca01 Catalin
