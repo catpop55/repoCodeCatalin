@@ -1,3 +1,4 @@
 Catalin
 (B) Modificacio 01 Main Catalin
 (C) Benvinguda a la branca02 Catalin
+(F) Afegim imatge a branca02 Catalin
